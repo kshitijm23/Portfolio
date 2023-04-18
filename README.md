@@ -1,6 +1,4 @@
-# 🔥 Responsive Portfolio Website Ansel
-## [Watch it on youtube](https://youtu.be/oy8dSsK57Ps)
-### 🔥 Responsive Portfolio Website
+# 🔥 Portfolio Website Kshitij Mahajan
 
 - Responsive Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
